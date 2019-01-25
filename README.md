@@ -7,4 +7,4 @@ How to start (in dir with script) :
 
 cd ..
 
-python ip_sender/ip_sender.py
+python ip_sender.py
